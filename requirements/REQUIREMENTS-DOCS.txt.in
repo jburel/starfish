@@ -8,3 +8,4 @@ sphinxcontrib-programoutput
 sphinx-gallery
 sphinx_rtd_theme
 m2r2
+seaborn
