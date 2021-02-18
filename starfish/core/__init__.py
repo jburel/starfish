@@ -1,7 +1,5 @@
 import warnings
 
-# generated version number and commit hash
-from ._version import get_versions
 
 # deal with numpy import warnings due to cython
 # See: https://stackoverflow.com/questions/40845304/

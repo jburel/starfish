@@ -5,6 +5,6 @@ build:
 python:
     version: 3.6
     install:
-        - requirements: requirements/REQUIREMENTS-CI.txt
+        - requirements: requirements/REQUIREMENTS-NAPARI-CI.txt
         - method: pip
           path: .
